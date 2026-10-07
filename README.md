@@ -1,10 +1,10 @@
 # OrderDesk BD
 
-OrderFlow BD is moving from a validated manual order-link baseline to a full automated production SaaS for Bangladesh F-commerce merchants.
+OrderDesk BD is moving from a validated manual order-link baseline to a full automated production SaaS for Bangladesh F-commerce merchants.
 
 ## Current Decision
 
-The basic flow has been tested:
+The basic Desk has been tested:
 
 - Merchant account creation.
 - Shop setup.
@@ -27,7 +27,7 @@ The current target is derived from the three reference images in `docs/reference
 - `Marchants_Dashboard.png`
 - `Founder_Dashboard.png`
 
-Use these images for product contents, modules, page inventory, and feature expectations. Do not copy their UI exactly. The frontend should keep the current OrderFlow styling language and add the richer elements shown in the references.
+Use these images for product contents, modules, page inventory, and feature expectations. Do not copy their UI exactly. The frontend should keep the current OrderDesk styling language and add the richer elements shown in the references.
 
 Theme direction:
 
@@ -57,8 +57,8 @@ The full SaaS must include:
 - Public landing page built around automated comment-to-order conversion.
 - Merchant command center with dashboard, order queue, products, replies, customers, integrations, billing, and support.
 - Automation engine for Facebook Page comments/messages and WhatsApp handoff where officially supported.
-- Payment workflow covering COD, manual MFS, and gateway-ready verification.
-- Courier workflow covering CSV fallback, API booking, tracking, and delivery exceptions.
+- Payment workDesk covering COD, manual MFS, and gateway-ready verification.
+- Courier workDesk covering CSV fallback, API booking, tracking, and delivery exceptions.
 - Founder/admin control center for merchants, GMV, orders, payments, payouts, billing, support/risk, reports, integrations, platform health, and audit logs.
 - Production deployment, monitoring, security, backups, and operational runbooks.
 
